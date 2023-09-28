@@ -6,7 +6,7 @@
     <style>
         /* Add CSS styles here */
         body {
-            background-image: url('[https://link.to/your/background-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F529806343670565823%2F&psig=AOvVaw3Xk7Yr_LftK6lzHVMRa9XF&ust=1695953155788000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIigwP2bzIEDFQAAAAAdAAAAABAJ)');
+            background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F529806343670565823%2F&psig=AOvVaw3Xk7Yr_LftK6lzHVMRa9XF&ust=1695953155788000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIigwP2bzIEDFQAAAAAdAAAAABAJ');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
