@@ -1,7 +1,7 @@
 [![Header](https://github.com/NiaRiver/NiaRiver/blob/main/assets/pic.png)](https://deathnote.fandom.com/wiki/Near)
 <p> </p>
 
-### I'm El-hassan, a 22-years-old Egypt-based begginer software developer with a passion for backend-development, music, sports, and travel.
+### I'm El-hassan, a 22-years-old Egypt-based begginer software developer.
 
 - 🌱 I’m currently learning Python programming language.
 
