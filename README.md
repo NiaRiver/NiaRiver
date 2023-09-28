@@ -1,7 +1,8 @@
 [![Header](https://github.com/NiaRiver/NiaRiver/blob/main/assets/pic222.png)](https://deathnote.fandom.com/wiki/Near)
 <p> </p>
+<center>
 
-### I'm an Egypt-based begginer software developer.
+### I'm an Egypt-based begginer software developer. 
 
 - 🌱 I’m currently learning Python programming language.
 - 🎵 My favorite music is Rock.
@@ -10,7 +11,7 @@
 
 ### Languages and tools
 ![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=Django)
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)<center>
 
 ### Folow Me
 
