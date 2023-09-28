@@ -10,9 +10,8 @@
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)
 
 ### Folow Me
-[![Instagram](https://www.instagram.com/seaparadiset/#)](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=Instagram
-)
-[![Telegram](https://t.me/seaparadiset)](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram
-)
 
+![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram)
+![Telegram](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram
+)
 <!-- Your content here -->
