@@ -11,7 +11,7 @@
 
 ### Folow Me
 
-![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram)
-![Telegram](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram
-)
+[![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram)](https://www.instagram.com/seaparadiset/#)
+[![Telegram](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram
+)](https://t.me/seaparadiset)
 <!-- Your content here -->
